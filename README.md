@@ -1,6 +1,9 @@
 > 运行项目：cmake + g++8
+
 > chmod +x build.sh run.sh
+
 > ./build.sh
+
 > ./run.sh
 
 
