@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -O3 -DNDEBUG -O3 -DNDEBUG   CMakeFiles/oj_server.dir/src/main.cpp.o  -o oj_server  liboj_core.a -lpthread 

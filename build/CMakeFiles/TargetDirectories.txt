@@ -1,0 +1,14 @@
+/home/ubuntu/XKOJ/XKOJ/build/CMakeFiles/install/strip.dir
+/home/ubuntu/XKOJ/XKOJ/build/CMakeFiles/install.dir
+/home/ubuntu/XKOJ/XKOJ/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/XKOJ/XKOJ/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/XKOJ/XKOJ/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/XKOJ/XKOJ/build/CMakeFiles/install/local.dir
+/home/ubuntu/XKOJ/XKOJ/build/CMakeFiles/oj_server.dir
+/home/ubuntu/XKOJ/XKOJ/build/CMakeFiles/oj_core.dir
+/home/ubuntu/XKOJ/XKOJ/build/_deps/nlohmann_json-build/CMakeFiles/install/strip.dir
+/home/ubuntu/XKOJ/XKOJ/build/_deps/nlohmann_json-build/CMakeFiles/install/local.dir
+/home/ubuntu/XKOJ/XKOJ/build/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
+/home/ubuntu/XKOJ/XKOJ/build/_deps/nlohmann_json-build/CMakeFiles/install.dir
+/home/ubuntu/XKOJ/XKOJ/build/_deps/nlohmann_json-build/CMakeFiles/list_install_components.dir
+/home/ubuntu/XKOJ/XKOJ/build/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir
